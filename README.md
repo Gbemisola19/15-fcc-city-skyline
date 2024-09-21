@@ -1,6 +1,6 @@
 # FCC City Skyline
 
-This is a project about learning css variable by building a city skyline.
+This is a project about learning css variables by building a city skyline.
 
 ![screenshot](./app_screenshot.png)
 
